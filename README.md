@@ -1,2 +1,2 @@
-# lmao
+# Student Insight
 minor project 
